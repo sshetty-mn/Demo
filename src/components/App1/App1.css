@@ -1,0 +1,31 @@
+.App1-top {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* border: 2px solid red; */
+  width: 100%;
+}
+.App1-top-left {
+  margin-left: 20px;
+}
+.method {
+  margin: auto 20px;
+  width: 100px;
+  border-radius: 25px;
+}
+
+.App1-bottom {
+  height: 70vh;
+  /* border: 2px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.App1-bottom-left {
+  /* border: 2px solid black; */
+}
+.App1-bottom-left {
+  /* border: 2px solid black; */
+}
